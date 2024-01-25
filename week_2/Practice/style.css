@@ -1,0 +1,18 @@
+h1 {
+    color: red; 
+   
+ }
+
+ h2 {
+     color: green;
+ }
+
+ h3, div {
+    color: blue;
+    background-color: lightgreen;
+ }
+
+ .group {
+    background-color: aqua;
+ }
+ 
