@@ -23,13 +23,13 @@ body {
 
 .info {
     width: 75%;
-    height: 600px;
+    height: 350px;
     margin-left: 170px;
-    border: 1px solid black;
+    border: 1px solid white;
     background-color: white;
 }
 
-.imgBox {
+.imgBox1 {
     width: 250px;
     height: 180px;
     background-size: cover;
@@ -43,4 +43,23 @@ body {
     margin-left: 40px;
     display: flex;
     
+}
+
+.proj {
+    width: 75%;
+    height: 400px;
+    margin-left: 170px;
+    margin-top: 50px;
+    border: 1px solid white;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.imgBox {
+    width: 85%;
+    display: flex;
+    justify-content:space-evenly;
+    margin-right: 30px;
 }
