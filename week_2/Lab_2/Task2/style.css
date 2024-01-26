@@ -1,11 +1,11 @@
 body {
     background-color: palevioletred;
+    font-family: 'Noto Sans Meetei Mayek', sans-serif;
 }
 
 .Box {
     width: 100%;
-    height: 600px;
-    border: 1px solid black;
+    height: 200px;
     display: flex;
     justify-content: center;
     margin-top: 30px;
@@ -19,4 +19,28 @@ body {
 .icons {
     display: flex;
     justify-content: space-evenly;
+}
+
+.info {
+    width: 75%;
+    height: 600px;
+    margin-left: 170px;
+    border: 1px solid black;
+    background-color: white;
+}
+
+.imgBox {
+    width: 250px;
+    height: 180px;
+    background-size: cover;
+    display: flex;
+    border: 1px solid black;
+}
+
+.det {
+    width: 80%;
+    height: 200px;
+    margin-left: 40px;
+    display: flex;
+    
 }
