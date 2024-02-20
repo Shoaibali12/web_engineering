@@ -99,3 +99,4 @@ for (i in fruits){
 }
 
 console.log(object)
+
