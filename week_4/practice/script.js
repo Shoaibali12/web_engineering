@@ -8,8 +8,7 @@ for (let i = 0; i < 5; i++) {
   console.log("Iteration " + (i + 1));
 }
 
-alert("Do not visit this page")
-console.log(typeof({}))
+
 
 const myObj = {
   name:"Shoaib",
